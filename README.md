@@ -8,7 +8,7 @@
 <a href="mailto:aymen4real@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 
-###  Aspiring full-stack web developer, 💙 open source.I enjoy playing online CTFs [LHC, Picota..] and I have a YouTube channel.
+###  Aspiring full-stack web developer, 💙 open source. I enjoy playing online CTFs [LHC, Picota..] and I have a [YouTube channel](https://www.youtube.com/channel/UCMbOrX4GDXq2Q77wIHhnGog).
 
 - 🔭 I’m currently working on my Channel's Website 🚧
 - 📚 I’m currently learning MERN Stack Development, Docker 🐳, Azure 🟦
